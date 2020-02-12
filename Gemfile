@@ -36,6 +36,10 @@ gem 'bulma-rails', '~> 0.8.0'
 
 # Simple form 
 gem 'simple_form', '~> 5.0', '>= 5.0.2'
+# Gravatar image tag
+gem 'gravatar_image_tag', '~> 1.2'
+# Divise
+gem 'devise', '~> 4.7', '>= 4.7.1'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
